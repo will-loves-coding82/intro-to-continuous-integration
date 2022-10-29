@@ -139,7 +139,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Upload test reports</h2></summary>
 
 _The workflow has finished running! :sparkles:_
@@ -181,7 +181,7 @@ Similar to the upload action to send artifacts to the storage, you can use anoth
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Add branch protections</h2></summary>
 
 _Great job uploading test reports! :partying_face:_
