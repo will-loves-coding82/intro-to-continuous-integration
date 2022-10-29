@@ -181,7 +181,7 @@ Similar to the upload action to send artifacts to the storage, you can use anoth
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Add branch protections</h2></summary>
 
 _Great job uploading test reports! :partying_face:_
@@ -211,7 +211,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
 _Almost there! :heart:_
@@ -233,7 +233,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
